@@ -1,0 +1,7 @@
+/src
+ ├── App.jsx
+ ├── firebase.js
+ └── components/
+       └── UploadForm.jsx
+/public
+ └── index.html
